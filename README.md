@@ -1,4 +1,4 @@
-"""
+
 LLM From Scratch - Tutorial Series (Work in Progress)
 
 This repository is dedicated to building a step-by-step tutorial series
@@ -19,4 +19,3 @@ as we build up each component of the model and its training pipeline.
 
 Stay tuned and feel free to contribute, give feedback, or raise issues!
 
-"""

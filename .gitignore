@@ -1,0 +1,8 @@
+training_llms/code/gpt2
+training_llms/code/model.pth
+training_llms/code/model_and_optimizer.pth
+fine_tuning/code/sms_spam_collection
+fine_tuning/code/sms_spam_collection.zip
+fine_tuning/code/train.csv
+fine_tuning/code/test.csv
+fine_tuning/code/validation.csv
